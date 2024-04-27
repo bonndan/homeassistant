@@ -1,5 +1,16 @@
 # HomeAssistant
 
+Links:
+* https://github.com/Blueforcer/awtrix3
+
+
+## Basic Setup
+
+* prefer native installs over docker, since not all features are avialable in a common docker install
+* add mosquitto MQTT server
+
+## Ulanzi Control
+
   POST http://192.168.0.242/api/apps
 
 ```json
